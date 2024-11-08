@@ -1,4 +1,5 @@
 # AutoRanker
+- This is a process for automatically ranking members from a clothing group based on clothing bought.
 
 On the front-end,
 
