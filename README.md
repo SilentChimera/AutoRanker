@@ -1,9 +1,5 @@
 # AutoRanker
 
-A server that serves a webpage, its resources, and some data
-
-## Your Project
-
 On the front-end,
 
 - Edit `views/index.html` to change the content of the webpage
