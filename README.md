@@ -1,7 +1,7 @@
 # AutoRanker
 - This is a process for automatically ranking members from a clothing group based on clothing bought.
 
-On the front-end,
+## On the front-end,
 
 - Edit `views/index.html` to change the content of the webpage
 - `public/client.js` is the javacript that runs when you load the webpage
